@@ -1,5 +1,5 @@
 # Ex.-No---5-Execute-a-program-for-Straight-line-and-Circular-interpolation-in-Doosan-Industrial-Cobot
-## NAME : pradeep Kumar
+## NAME : Pradeep Kumar
 ## REG NO : 212223230150
 # Aim 
 To execute a program for straight line and circular interpolation in Doosan Industrial Cobot
